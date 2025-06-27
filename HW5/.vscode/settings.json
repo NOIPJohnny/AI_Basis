@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "atomic": "cpp",
+        "deque": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "exception": "cpp",
+        "initializer_list": "cpp",
+        "iosfwd": "cpp",
+        "new": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp"
+    }
+}
